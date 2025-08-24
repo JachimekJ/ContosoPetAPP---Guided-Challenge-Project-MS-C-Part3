@@ -12,3 +12,4 @@ C:\GuidedProjects\ContosoPetsApp\Guided-project-branching-looping-CSharp-main\Gu
 C:\GuidedProjects\ContosoPetsApp\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
 C:\GuidedProjects\ContosoPetsApp\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
 C:\GuidedProjects\ContosoPetsApp\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+C:\GuidedProjects\ContosoPetsApp\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
